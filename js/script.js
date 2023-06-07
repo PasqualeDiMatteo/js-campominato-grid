@@ -42,6 +42,8 @@ buttonElement.addEventListener("click", () => {
   const cols = difficultyElement.value;
   const totalCells = cols * rows;
 
+  gridElement.innerHTML = "";
+
   for (let i = 1; i <= totalCells; i++) {
     const cell = createCell();
     cell.innerText = i;
