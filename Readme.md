@@ -29,6 +29,6 @@ Aggiungere una select accanto al bottone di generazione, che fornisca una scelta
        - La cella si colora
        - Stampa in console il numero della cella
 3. In base alla difficoltà
-   - **SE** la difficoltà è easy crea un 7x7
+   - **SE** la difficoltà è hard crea un 7x7
    - **SE** la difficoltà è medium crea un 9x9
-   - **SE** la difficoltà è hard crea un 10x10
+   - **SE** la difficoltà è easy crea un 10x10
