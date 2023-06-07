@@ -17,6 +17,8 @@ main{
     align-items: center;
     justify-content: center;
     border: 1px solid black;
+    color: white;
+    cursor: pointer;
 }
 
 /* Cella Cliccata */
